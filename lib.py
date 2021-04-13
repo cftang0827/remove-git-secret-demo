@@ -1,0 +1,1 @@
+welcome_mesg = "Hello world"
